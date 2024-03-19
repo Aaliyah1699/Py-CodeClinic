@@ -2,7 +2,7 @@
 
 Welcome to **CodeClinic AI**, your ultimate companion for coding assistance! With CodeClinic AI, you're not just getting a regular chatbot - you're tapping into a powerful tool designed specifically for code enthusiasts like yourself. Whether you're a seasoned developer looking to streamline your workflow or a beginner seeking guidance, CodeClinic AI is here to elevate your coding experience to new heights.
 
-## Checkout My [Portfolio 💞](https://aaliyahm-portfolio.netlify.app/) 
+## Checkout My [Portfolio 🩵](https://aaliyahm-portfolio.netlify.app/) 
 
 ## Introduction
 
