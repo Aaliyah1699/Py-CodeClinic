@@ -6,7 +6,7 @@ Welcome to **CodeClinic AI**, your ultimate companion for coding assistance! Wit
 
 ## Introduction
 
-**CodeClinic AI** isn't your ordinary chatbot - it's a virtual coding assistant equipped with the latest technologies to help you conquer any coding challenge with ease. Powered by Python, Django, and the OpenAI API, this web app revolutionizes the way you interact with code.
+**CodeClinic AI** isn't your ordinary chatbot - it's a virtual coding assistant equipped with the latest technologies to help you conquer any coding challenge with ease. Powered by Python, Django, SQLite , and the OpenAI API, this web app revolutionizes the way you interact with code.
 
 ## Key Features
 
@@ -24,7 +24,7 @@ With CodeClinic AI, your privacy and security are our top priorities. Enjoy the 
 
 ### Code History
 
-Never lose track of your coding journey! CodeClinic AI securely stores your past code snippets in a database, allowing you to revisit and review your work whenever you need. Plus, you have the option to delete past code snippets for a clutter-free experience.
+Never lose track of your coding journey! CodeClinic AI securely stores your past code snippets in a SQLite  database, allowing you to revisit and review your work whenever you need. Plus, you have the option to delete past code snippets for a clutter-free experience.
 
 ### Easy Code Copying
 
